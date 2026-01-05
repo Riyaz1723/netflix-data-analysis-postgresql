@@ -1,7 +1,5 @@
-# netflix-data-analysis-postgresql
-“Data analysis of Netflix movies and TV shows using PostgreSQL and SQL queries.”
 # Netflix Data Analysis using PostgreSQL
-
+“Data analysis of Netflix movies and TV shows using PostgreSQL and SQL queries.”
 ## Project Overview
 This project focuses on analyzing Netflix Movies and TV Shows data using PostgreSQL.
 The objective is to derive meaningful business insights by performing SQL-based data analysis
